@@ -10,7 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyFriend">
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.detail.DetailFriendActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.add.AddFriendActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.home.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.intro.IntoActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

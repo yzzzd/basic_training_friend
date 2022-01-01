@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_radius">12dp</dimen>
+    <dimen name="margin_top_default">12dp</dimen>
+    <dimen name="padding_button">16dp</dimen>
+    <dimen name="padding_layout_default">24dp</dimen>
+    <dimen name="padding_view">12dp</dimen>
+    <dimen name="text_inro">32sp</dimen>
+    <dimen name="text_item_content">14sp</dimen>
+    <dimen name="text_item_title">16sp</dimen>
+    <dimen name="text_title">24sp</dimen>
+</resources>
