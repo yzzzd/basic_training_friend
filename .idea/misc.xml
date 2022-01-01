@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.598974358974359" />
+        <entry key="app/src/main/res/layout/activity_add_friend.xml" value="0.5702564102564103" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.2824074074074074" />
+        <entry key="app/src/main/res/layout/activity_detail_friend.xml" value="0.3567708333333333" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.583076923076923" />
+        <entry key="app/src/main/res/layout/activity_intro.xml" value="0.3567708333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2824074074074074" />
+        <entry key="app/src/main/res/layout/item_friend.xml" value="0.583076923076923" />
+        <entry key="app/src/main/res/layout/view_constraint.xml" value="0.2824074074074074" />
+        <entry key="app/src/main/res/layout/view_frame.xml" value="0.2824074074074074" />
+        <entry key="app/src/main/res/layout/view_linear.xml" value="0.2824074074074074" />
+        <entry key="app/src/main/res/layout/view_relative.xml" value="0.2824074074074074" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
